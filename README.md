@@ -12,6 +12,6 @@ Padrão de desenvolvimento utilizado:
 - MVC (Model, View, Controller)
 
 Comandos para executar no terminal:
-npm install -g nodemon
-npm i express --save
-nodemon index
+- npm install -g nodemon
+- npm i express --save
+- nodemon index
